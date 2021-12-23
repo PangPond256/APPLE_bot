@@ -1,0 +1,23 @@
+{
+  "name": "newbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "util": "^0.12.4",
+    "ytdl-core": "^4.9.1"
+  }
+}
